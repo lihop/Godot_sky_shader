@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lightning.png-abb080f5869bab46ae59031b0b9fc4ab.stex"
+path="res://.import/preview.jpg-051b9970805a32d65c6bf4cc18522019.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://shaders/lightning.png"
-dest_files=[ "res://.import/lightning.png-abb080f5869bab46ae59031b0b9fc4ab.stex" ]
+source_file="res://addons/sky_shader/images/preview.jpg"
+dest_files=[ "res://.import/preview.jpg-051b9970805a32d65c6bf4cc18522019.stex" ]
 
 [params]
 
