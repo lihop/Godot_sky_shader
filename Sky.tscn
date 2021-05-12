@@ -360,13 +360,13 @@ gradient = SubResource( 2 )
 [sub_resource type="ShaderMaterial" id=4]
 shader = ExtResource( 5 )
 shader_param/WIND = Vector3( 0.1, 0, 0 )
-shader_param/SUN_POS = Vector3( 0, -0.967138, 0.25425 )
+shader_param/SUN_POS = Vector3( 0, -0.611972, 0.79088 )
 shader_param/SIZE = 2.0
 shader_param/SOFTNESS = 1.0
-shader_param/COVERAGE = 0.55
+shader_param/COVERAGE = 0.54636
 shader_param/HEIGHT = 0.35
-shader_param/THICKNESS = 15.0
-shader_param/ABSORPTION = 1.25
+shader_param/THICKNESS = 15.052
+shader_param/ABSORPTION = 1.2552
 shader_param/STEPS = 100
 shader_param/Noise = ExtResource( 1 )
 
@@ -427,9 +427,7 @@ minutes = 1
 seconds = 5
 time_of_day_setup = 0.542419
 clouds_dens = 0.1215
-clouds_height = 0.35
 clouds_quality = 100
-sun_radius = 0.04
 moon_radius = 0.05
 moon_phase = -1.0
 night_level_light = 0.1

@@ -2,7 +2,7 @@
 
 [ext_resource path="res://Player.tscn" type="PackedScene" id=1]
 [ext_resource path="res://MovedPlatform.tscn" type="PackedScene" id=2]
-[ext_resource path="res://Sky.tscn" type="PackedScene" id=3]
+[ext_resource path="res://addons/sky_shader/Sky.tscn" type="PackedScene" id=3]
 [ext_resource path="res://Tree.obj" type="ArrayMesh" id=4]
 
 [sub_resource type="GDScript" id=1]
@@ -53,7 +53,6 @@ minutes = 30
 seconds = 55
 time_of_day_setup = 0.438145
 clouds_coverage = 0.5052
-clouds_tint = Color( 1, 1, 1, 1 )
 
 [node name="LevelGeometry" type="Spatial" parent="."]
 
